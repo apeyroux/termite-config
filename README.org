@@ -1,0 +1,5 @@
+* Usage
+
+#+BEGIN_SRC sh
+ln -s config $HOME/.config/termite/config
+#+END_SRC
